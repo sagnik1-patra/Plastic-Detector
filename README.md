@@ -136,7 +136,7 @@ Accuracy vs. Loss curves (saved as accuracy_loss.png)
 Confusion Matrix heatmap (saved as confusion_matrix.png)
 
 Prediction distribution bar chart (shown inline in Jupyter)
-![Confusion Matrix Heatmap](confusion_matrix_view.png)
+![Confusion Matrix Heatmap](confusion_matrix.png)
 🛠️ Tech Stack
 Deep Learning: TensorFlow / Keras (EfficientNetB0)
 
