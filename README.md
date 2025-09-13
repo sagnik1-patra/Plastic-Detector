@@ -10,7 +10,7 @@ It can work as a **multi-class waste classifier** (plastic, glass, cardboard, me
 - Supports sustainability & AI-driven waste management.
 
 ---
-
+![Confusion Matrix Heatmap](confusion_matrix.png)
 ## 📂 Dataset
 The dataset is organized into subfolders (Resized TrashNet style):
 
@@ -136,7 +136,7 @@ Accuracy vs. Loss curves (saved as accuracy_loss.png)
 Confusion Matrix heatmap (saved as confusion_matrix.png)
 
 Prediction distribution bar chart (shown inline in Jupyter)
-![Confusion Matrix Heatmap](confusion_matrix.png)
+
 🛠️ Tech Stack
 Deep Learning: TensorFlow / Keras (EfficientNetB0)
 
