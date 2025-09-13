@@ -1,0 +1,13 @@
+[
+  {
+    "file":"C:\\Users\\sagni\\Downloads\\Plastic Detector\\archive\\dataset-resized\\plastic\\plastic1.jpg",
+    "pred_class":"plastic",
+    "confidence":0.673581,
+    "top1_class":"plastic",
+    "top1_p":0.673581,
+    "top2_class":"glass",
+    "top2_p":0.286736,
+    "top3_class":"paper",
+    "top3_p":0.025413
+  }
+]

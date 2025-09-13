@@ -1,0 +1,2517 @@
+[
+  {
+    "file": "cardboard/cardboard1.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.997708797454834
+  },
+  {
+    "file": "cardboard/cardboard10.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9992955923080444
+  },
+  {
+    "file": "cardboard/cardboard100.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9417098164558411
+  },
+  {
+    "file": "cardboard/cardboard101.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9997661709785461
+  },
+  {
+    "file": "cardboard/cardboard102.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9300879240036011
+  },
+  {
+    "file": "cardboard/cardboard103.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9986414313316345
+  },
+  {
+    "file": "cardboard/cardboard104.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.8755559921264648
+  },
+  {
+    "file": "cardboard/cardboard105.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9964109063148499
+  },
+  {
+    "file": "cardboard/cardboard106.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9966885447502136
+  },
+  {
+    "file": "cardboard/cardboard107.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9983042478561401
+  },
+  {
+    "file": "cardboard/cardboard108.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9992689490318298
+  },
+  {
+    "file": "cardboard/cardboard109.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9974269270896912
+  },
+  {
+    "file": "cardboard/cardboard11.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9968520998954773
+  },
+  {
+    "file": "cardboard/cardboard110.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.6619606614112854
+  },
+  {
+    "file": "cardboard/cardboard111.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9998769760131836
+  },
+  {
+    "file": "cardboard/cardboard112.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9794263243675232
+  },
+  {
+    "file": "cardboard/cardboard113.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9934267997741699
+  },
+  {
+    "file": "cardboard/cardboard114.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9987868666648865
+  },
+  {
+    "file": "cardboard/cardboard115.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9996566772460938
+  },
+  {
+    "file": "cardboard/cardboard116.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.8033975958824158
+  },
+  {
+    "file": "cardboard/cardboard117.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9313557744026184
+  },
+  {
+    "file": "cardboard/cardboard118.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.8683650493621826
+  },
+  {
+    "file": "cardboard/cardboard119.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9914301037788391
+  },
+  {
+    "file": "cardboard/cardboard12.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9998612403869629
+  },
+  {
+    "file": "cardboard/cardboard120.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6791969537734985
+  },
+  {
+    "file": "cardboard/cardboard121.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9576228857040405
+  },
+  {
+    "file": "cardboard/cardboard122.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9391462206840515
+  },
+  {
+    "file": "cardboard/cardboard123.jpg",
+    "pred_class": "paper",
+    "confidence": 0.578698456287384
+  },
+  {
+    "file": "cardboard/cardboard124.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.6472177505493164
+  },
+  {
+    "file": "cardboard/cardboard125.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9749729633331299
+  },
+  {
+    "file": "cardboard/cardboard126.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9988225102424622
+  },
+  {
+    "file": "cardboard/cardboard127.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9969668984413147
+  },
+  {
+    "file": "cardboard/cardboard128.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8862197399139404
+  },
+  {
+    "file": "cardboard/cardboard129.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9905733466148376
+  },
+  {
+    "file": "cardboard/cardboard13.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9900150299072266
+  },
+  {
+    "file": "cardboard/cardboard130.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9835618138313293
+  },
+  {
+    "file": "cardboard/cardboard131.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9652952551841736
+  },
+  {
+    "file": "cardboard/cardboard132.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.6195493936538696
+  },
+  {
+    "file": "cardboard/cardboard133.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9570251703262329
+  },
+  {
+    "file": "cardboard/cardboard134.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.7944201231002808
+  },
+  {
+    "file": "cardboard/cardboard135.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9765504002571106
+  },
+  {
+    "file": "cardboard/cardboard136.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9289425015449524
+  },
+  {
+    "file": "cardboard/cardboard137.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.8052588105201721
+  },
+  {
+    "file": "cardboard/cardboard138.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9765946269035339
+  },
+  {
+    "file": "cardboard/cardboard139.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.99965500831604
+  },
+  {
+    "file": "cardboard/cardboard14.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9988995790481567
+  },
+  {
+    "file": "cardboard/cardboard140.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7702776789665222
+  },
+  {
+    "file": "cardboard/cardboard141.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.997719943523407
+  },
+  {
+    "file": "cardboard/cardboard142.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.6275935769081116
+  },
+  {
+    "file": "cardboard/cardboard143.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.43361014127731323
+  },
+  {
+    "file": "cardboard/cardboard144.jpg",
+    "pred_class": "paper",
+    "confidence": 0.848039448261261
+  },
+  {
+    "file": "cardboard/cardboard145.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9309073090553284
+  },
+  {
+    "file": "cardboard/cardboard146.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9927525520324707
+  },
+  {
+    "file": "cardboard/cardboard147.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9994159936904907
+  },
+  {
+    "file": "cardboard/cardboard148.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9599375128746033
+  },
+  {
+    "file": "cardboard/cardboard149.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.998136043548584
+  },
+  {
+    "file": "cardboard/cardboard15.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.825611412525177
+  },
+  {
+    "file": "cardboard/cardboard150.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.4131234586238861
+  },
+  {
+    "file": "cardboard/cardboard151.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8197500705718994
+  },
+  {
+    "file": "cardboard/cardboard152.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6034721732139587
+  },
+  {
+    "file": "cardboard/cardboard153.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6873910427093506
+  },
+  {
+    "file": "cardboard/cardboard154.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9379467368125916
+  },
+  {
+    "file": "cardboard/cardboard155.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9937496185302734
+  },
+  {
+    "file": "cardboard/cardboard156.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9986456036567688
+  },
+  {
+    "file": "cardboard/cardboard157.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.992863118648529
+  },
+  {
+    "file": "cardboard/cardboard158.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9969733953475952
+  },
+  {
+    "file": "cardboard/cardboard159.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.996189534664154
+  },
+  {
+    "file": "cardboard/cardboard16.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9957114458084106
+  },
+  {
+    "file": "cardboard/cardboard160.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9977390766143799
+  },
+  {
+    "file": "cardboard/cardboard161.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.7694264650344849
+  },
+  {
+    "file": "cardboard/cardboard162.jpg",
+    "pred_class": "paper",
+    "confidence": 0.49390068650245667
+  },
+  {
+    "file": "cardboard/cardboard163.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.7279590368270874
+  },
+  {
+    "file": "cardboard/cardboard164.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9990944862365723
+  },
+  {
+    "file": "cardboard/cardboard165.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9987850785255432
+  },
+  {
+    "file": "cardboard/cardboard166.jpg",
+    "pred_class": "paper",
+    "confidence": 0.31579819321632385
+  },
+  {
+    "file": "cardboard/cardboard167.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9360194206237793
+  },
+  {
+    "file": "cardboard/cardboard168.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9922683835029602
+  },
+  {
+    "file": "cardboard/cardboard169.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5664955377578735
+  },
+  {
+    "file": "cardboard/cardboard17.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7492682337760925
+  },
+  {
+    "file": "cardboard/cardboard170.jpg",
+    "pred_class": "cardboard",
+    "confidence": 0.9822951555252075
+  },
+  {
+    "file": "glass/glass1.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9822867512702942
+  },
+  {
+    "file": "glass/glass10.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9640392661094666
+  },
+  {
+    "file": "glass/glass100.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4340151250362396
+  },
+  {
+    "file": "glass/glass101.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9040166139602661
+  },
+  {
+    "file": "glass/glass102.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6386575102806091
+  },
+  {
+    "file": "glass/glass103.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9005649089813232
+  },
+  {
+    "file": "glass/glass104.jpg",
+    "pred_class": "glass",
+    "confidence": 0.939540684223175
+  },
+  {
+    "file": "glass/glass105.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9709729552268982
+  },
+  {
+    "file": "glass/glass106.jpg",
+    "pred_class": "glass",
+    "confidence": 0.892139732837677
+  },
+  {
+    "file": "glass/glass107.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9570953845977783
+  },
+  {
+    "file": "glass/glass108.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9652527570724487
+  },
+  {
+    "file": "glass/glass109.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6189520955085754
+  },
+  {
+    "file": "glass/glass11.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9968053102493286
+  },
+  {
+    "file": "glass/glass110.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5457198023796082
+  },
+  {
+    "file": "glass/glass111.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9772499203681946
+  },
+  {
+    "file": "glass/glass112.jpg",
+    "pred_class": "glass",
+    "confidence": 0.47370004653930664
+  },
+  {
+    "file": "glass/glass113.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9991545677185059
+  },
+  {
+    "file": "glass/glass114.jpg",
+    "pred_class": "glass",
+    "confidence": 0.984552264213562
+  },
+  {
+    "file": "glass/glass115.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6843793392181396
+  },
+  {
+    "file": "glass/glass116.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7992964386940002
+  },
+  {
+    "file": "glass/glass117.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5034880042076111
+  },
+  {
+    "file": "glass/glass118.jpg",
+    "pred_class": "glass",
+    "confidence": 0.998728334903717
+  },
+  {
+    "file": "glass/glass119.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9884668588638306
+  },
+  {
+    "file": "glass/glass12.jpg",
+    "pred_class": "paper",
+    "confidence": 0.3326375484466553
+  },
+  {
+    "file": "glass/glass120.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8477641940116882
+  },
+  {
+    "file": "glass/glass121.jpg",
+    "pred_class": "glass",
+    "confidence": 0.969758152961731
+  },
+  {
+    "file": "glass/glass122.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6409466862678528
+  },
+  {
+    "file": "glass/glass123.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9776040315628052
+  },
+  {
+    "file": "glass/glass124.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9418445229530334
+  },
+  {
+    "file": "glass/glass125.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9968104958534241
+  },
+  {
+    "file": "glass/glass126.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5917839407920837
+  },
+  {
+    "file": "glass/glass127.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7869845032691956
+  },
+  {
+    "file": "glass/glass128.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9780529737472534
+  },
+  {
+    "file": "glass/glass129.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9972405433654785
+  },
+  {
+    "file": "glass/glass13.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7568306922912598
+  },
+  {
+    "file": "glass/glass130.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9976935982704163
+  },
+  {
+    "file": "glass/glass131.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8292654752731323
+  },
+  {
+    "file": "glass/glass132.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9095296859741211
+  },
+  {
+    "file": "glass/glass133.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9714572429656982
+  },
+  {
+    "file": "glass/glass134.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6394695043563843
+  },
+  {
+    "file": "glass/glass135.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8861768841743469
+  },
+  {
+    "file": "glass/glass136.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8681517243385315
+  },
+  {
+    "file": "glass/glass137.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.506854772567749
+  },
+  {
+    "file": "glass/glass138.jpg",
+    "pred_class": "glass",
+    "confidence": 0.899804949760437
+  },
+  {
+    "file": "glass/glass139.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.525291919708252
+  },
+  {
+    "file": "glass/glass14.jpg",
+    "pred_class": "glass",
+    "confidence": 0.5194860100746155
+  },
+  {
+    "file": "glass/glass140.jpg",
+    "pred_class": "metal",
+    "confidence": 0.42414388060569763
+  },
+  {
+    "file": "glass/glass141.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7490010857582092
+  },
+  {
+    "file": "glass/glass142.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9236077070236206
+  },
+  {
+    "file": "glass/glass143.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9946809411048889
+  },
+  {
+    "file": "glass/glass144.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7042328119277954
+  },
+  {
+    "file": "glass/glass145.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8935378193855286
+  },
+  {
+    "file": "glass/glass146.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9884504079818726
+  },
+  {
+    "file": "glass/glass147.jpg",
+    "pred_class": "trash",
+    "confidence": 0.44535207748413086
+  },
+  {
+    "file": "glass/glass148.jpg",
+    "pred_class": "glass",
+    "confidence": 0.679374635219574
+  },
+  {
+    "file": "glass/glass149.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9977311491966248
+  },
+  {
+    "file": "glass/glass15.jpg",
+    "pred_class": "glass",
+    "confidence": 0.4992862343788147
+  },
+  {
+    "file": "glass/glass150.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6810775995254517
+  },
+  {
+    "file": "glass/glass151.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9950628876686096
+  },
+  {
+    "file": "glass/glass152.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5278114080429077
+  },
+  {
+    "file": "glass/glass153.jpg",
+    "pred_class": "glass",
+    "confidence": 0.921000599861145
+  },
+  {
+    "file": "glass/glass154.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6311911940574646
+  },
+  {
+    "file": "glass/glass155.jpg",
+    "pred_class": "glass",
+    "confidence": 0.786750316619873
+  },
+  {
+    "file": "glass/glass156.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9664446115493774
+  },
+  {
+    "file": "glass/glass157.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5659807920455933
+  },
+  {
+    "file": "glass/glass158.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6745593547821045
+  },
+  {
+    "file": "glass/glass159.jpg",
+    "pred_class": "glass",
+    "confidence": 0.5041593313217163
+  },
+  {
+    "file": "glass/glass16.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6697535514831543
+  },
+  {
+    "file": "glass/glass160.jpg",
+    "pred_class": "glass",
+    "confidence": 0.65041583776474
+  },
+  {
+    "file": "glass/glass161.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9052080512046814
+  },
+  {
+    "file": "glass/glass162.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7923364639282227
+  },
+  {
+    "file": "glass/glass163.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8924451470375061
+  },
+  {
+    "file": "glass/glass164.jpg",
+    "pred_class": "glass",
+    "confidence": 0.937311053276062
+  },
+  {
+    "file": "glass/glass165.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9390178322792053
+  },
+  {
+    "file": "glass/glass166.jpg",
+    "pred_class": "glass",
+    "confidence": 0.5454066395759583
+  },
+  {
+    "file": "glass/glass167.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7058707475662231
+  },
+  {
+    "file": "glass/glass168.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9668817520141602
+  },
+  {
+    "file": "glass/glass169.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6258212327957153
+  },
+  {
+    "file": "glass/glass17.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9936540126800537
+  },
+  {
+    "file": "glass/glass170.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8808285593986511
+  },
+  {
+    "file": "glass/glass171.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9623522758483887
+  },
+  {
+    "file": "glass/glass172.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9277645945549011
+  },
+  {
+    "file": "glass/glass173.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7885057926177979
+  },
+  {
+    "file": "glass/glass174.jpg",
+    "pred_class": "glass",
+    "confidence": 0.4839700162410736
+  },
+  {
+    "file": "glass/glass175.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5241613388061523
+  },
+  {
+    "file": "glass/glass176.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7506335377693176
+  },
+  {
+    "file": "glass/glass177.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6202929019927979
+  },
+  {
+    "file": "glass/glass178.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6371261477470398
+  },
+  {
+    "file": "glass/glass179.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9948751330375671
+  },
+  {
+    "file": "glass/glass18.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8474034070968628
+  },
+  {
+    "file": "glass/glass180.jpg",
+    "pred_class": "glass",
+    "confidence": 0.42484450340270996
+  },
+  {
+    "file": "glass/glass181.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6967619061470032
+  },
+  {
+    "file": "glass/glass182.jpg",
+    "pred_class": "glass",
+    "confidence": 0.8989138007164001
+  },
+  {
+    "file": "glass/glass183.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7027717232704163
+  },
+  {
+    "file": "glass/glass184.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8280614018440247
+  },
+  {
+    "file": "glass/glass185.jpg",
+    "pred_class": "glass",
+    "confidence": 0.5293952226638794
+  },
+  {
+    "file": "glass/glass186.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9787935018539429
+  },
+  {
+    "file": "glass/glass187.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4876105487346649
+  },
+  {
+    "file": "glass/glass188.jpg",
+    "pred_class": "glass",
+    "confidence": 0.9247891306877136
+  },
+  {
+    "file": "glass/glass189.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7893673181533813
+  },
+  {
+    "file": "metal/metal1.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9880384206771851
+  },
+  {
+    "file": "metal/metal10.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6534335017204285
+  },
+  {
+    "file": "metal/metal100.jpg",
+    "pred_class": "metal",
+    "confidence": 0.999620795249939
+  },
+  {
+    "file": "metal/metal101.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9052894115447998
+  },
+  {
+    "file": "metal/metal102.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8108118176460266
+  },
+  {
+    "file": "metal/metal103.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4835206866264343
+  },
+  {
+    "file": "metal/metal104.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9106473326683044
+  },
+  {
+    "file": "metal/metal105.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9831730127334595
+  },
+  {
+    "file": "metal/metal106.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9340891242027283
+  },
+  {
+    "file": "metal/metal107.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9936251640319824
+  },
+  {
+    "file": "metal/metal108.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9976402521133423
+  },
+  {
+    "file": "metal/metal109.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9881882071495056
+  },
+  {
+    "file": "metal/metal11.jpg",
+    "pred_class": "metal",
+    "confidence": 0.983467161655426
+  },
+  {
+    "file": "metal/metal110.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9691312313079834
+  },
+  {
+    "file": "metal/metal111.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6516237258911133
+  },
+  {
+    "file": "metal/metal112.jpg",
+    "pred_class": "metal",
+    "confidence": 0.4825762212276459
+  },
+  {
+    "file": "metal/metal113.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8153989315032959
+  },
+  {
+    "file": "metal/metal114.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9634271264076233
+  },
+  {
+    "file": "metal/metal115.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9401555061340332
+  },
+  {
+    "file": "metal/metal116.jpg",
+    "pred_class": "glass",
+    "confidence": 0.4607146680355072
+  },
+  {
+    "file": "metal/metal117.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9799883365631104
+  },
+  {
+    "file": "metal/metal118.jpg",
+    "pred_class": "metal",
+    "confidence": 0.722305178642273
+  },
+  {
+    "file": "metal/metal119.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9704573154449463
+  },
+  {
+    "file": "metal/metal12.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9834903478622437
+  },
+  {
+    "file": "metal/metal120.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8934486508369446
+  },
+  {
+    "file": "metal/metal121.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8516685962677002
+  },
+  {
+    "file": "metal/metal122.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8817470073699951
+  },
+  {
+    "file": "metal/metal123.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9956373572349548
+  },
+  {
+    "file": "metal/metal124.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9662685394287109
+  },
+  {
+    "file": "metal/metal125.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8618550896644592
+  },
+  {
+    "file": "metal/metal126.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9768173098564148
+  },
+  {
+    "file": "metal/metal127.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9832645058631897
+  },
+  {
+    "file": "metal/metal128.jpg",
+    "pred_class": "metal",
+    "confidence": 0.95256108045578
+  },
+  {
+    "file": "metal/metal129.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9899712800979614
+  },
+  {
+    "file": "metal/metal13.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9545544385910034
+  },
+  {
+    "file": "metal/metal130.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9343268871307373
+  },
+  {
+    "file": "metal/metal131.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5390729308128357
+  },
+  {
+    "file": "metal/metal132.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5681979656219482
+  },
+  {
+    "file": "metal/metal133.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9821286201477051
+  },
+  {
+    "file": "metal/metal134.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8836807608604431
+  },
+  {
+    "file": "metal/metal135.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9832227826118469
+  },
+  {
+    "file": "metal/metal136.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9105923771858215
+  },
+  {
+    "file": "metal/metal137.jpg",
+    "pred_class": "metal",
+    "confidence": 0.968676745891571
+  },
+  {
+    "file": "metal/metal138.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9695669412612915
+  },
+  {
+    "file": "metal/metal139.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9749875068664551
+  },
+  {
+    "file": "metal/metal14.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5180663466453552
+  },
+  {
+    "file": "metal/metal140.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9989732503890991
+  },
+  {
+    "file": "metal/metal141.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9656187295913696
+  },
+  {
+    "file": "metal/metal142.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8096831440925598
+  },
+  {
+    "file": "metal/metal143.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9228295087814331
+  },
+  {
+    "file": "metal/metal144.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9843000769615173
+  },
+  {
+    "file": "metal/metal145.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9428725838661194
+  },
+  {
+    "file": "metal/metal146.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5008475184440613
+  },
+  {
+    "file": "metal/metal147.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6141155958175659
+  },
+  {
+    "file": "metal/metal148.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8544815182685852
+  },
+  {
+    "file": "metal/metal149.jpg",
+    "pred_class": "metal",
+    "confidence": 0.650500476360321
+  },
+  {
+    "file": "metal/metal15.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8638285398483276
+  },
+  {
+    "file": "metal/metal150.jpg",
+    "pred_class": "metal",
+    "confidence": 0.4499526619911194
+  },
+  {
+    "file": "metal/metal151.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9844788908958435
+  },
+  {
+    "file": "metal/metal152.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7478675842285156
+  },
+  {
+    "file": "metal/metal153.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9703999757766724
+  },
+  {
+    "file": "metal/metal154.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6523165106773376
+  },
+  {
+    "file": "metal/metal155.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6730272173881531
+  },
+  {
+    "file": "metal/metal156.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9351232051849365
+  },
+  {
+    "file": "metal/metal157.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6194944381713867
+  },
+  {
+    "file": "metal/metal158.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9965207576751709
+  },
+  {
+    "file": "metal/metal159.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8101211786270142
+  },
+  {
+    "file": "metal/metal16.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9775030016899109
+  },
+  {
+    "file": "metal/metal160.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7149882316589355
+  },
+  {
+    "file": "metal/metal161.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9230813384056091
+  },
+  {
+    "file": "metal/metal162.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8899734616279602
+  },
+  {
+    "file": "metal/metal163.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8505564332008362
+  },
+  {
+    "file": "metal/metal164.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7230361700057983
+  },
+  {
+    "file": "metal/metal165.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.48489972949028015
+  },
+  {
+    "file": "metal/metal166.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4884062111377716
+  },
+  {
+    "file": "metal/metal167.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8914269804954529
+  },
+  {
+    "file": "metal/metal168.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9790499806404114
+  },
+  {
+    "file": "metal/metal169.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7700517773628235
+  },
+  {
+    "file": "metal/metal17.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7400614023208618
+  },
+  {
+    "file": "metal/metal170.jpg",
+    "pred_class": "metal",
+    "confidence": 0.9662966728210449
+  },
+  {
+    "file": "metal/metal171.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7420676946640015
+  },
+  {
+    "file": "metal/metal172.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5791845917701721
+  },
+  {
+    "file": "paper/paper1.jpg",
+    "pred_class": "paper",
+    "confidence": 0.5198949575424194
+  },
+  {
+    "file": "paper/paper10.jpg",
+    "pred_class": "paper",
+    "confidence": 0.82750403881073
+  },
+  {
+    "file": "paper/paper100.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9582555294036865
+  },
+  {
+    "file": "paper/paper101.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8700340986251831
+  },
+  {
+    "file": "paper/paper102.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6285291910171509
+  },
+  {
+    "file": "paper/paper103.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6760596632957458
+  },
+  {
+    "file": "paper/paper104.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9672287106513977
+  },
+  {
+    "file": "paper/paper105.jpg",
+    "pred_class": "paper",
+    "confidence": 0.963475227355957
+  },
+  {
+    "file": "paper/paper106.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8702772259712219
+  },
+  {
+    "file": "paper/paper107.jpg",
+    "pred_class": "paper",
+    "confidence": 0.38131770491600037
+  },
+  {
+    "file": "paper/paper108.jpg",
+    "pred_class": "paper",
+    "confidence": 0.86594557762146
+  },
+  {
+    "file": "paper/paper109.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9811459183692932
+  },
+  {
+    "file": "paper/paper11.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9509133696556091
+  },
+  {
+    "file": "paper/paper110.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9668640494346619
+  },
+  {
+    "file": "paper/paper111.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8305748105049133
+  },
+  {
+    "file": "paper/paper112.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9932888150215149
+  },
+  {
+    "file": "paper/paper113.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7596333026885986
+  },
+  {
+    "file": "paper/paper114.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9943694472312927
+  },
+  {
+    "file": "paper/paper115.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9799023866653442
+  },
+  {
+    "file": "paper/paper116.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9746120572090149
+  },
+  {
+    "file": "paper/paper117.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9511800408363342
+  },
+  {
+    "file": "paper/paper118.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8324198126792908
+  },
+  {
+    "file": "paper/paper119.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9742626547813416
+  },
+  {
+    "file": "paper/paper12.jpg",
+    "pred_class": "paper",
+    "confidence": 0.943092942237854
+  },
+  {
+    "file": "paper/paper120.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.813530683517456
+  },
+  {
+    "file": "paper/paper121.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8501891493797302
+  },
+  {
+    "file": "paper/paper122.jpg",
+    "pred_class": "paper",
+    "confidence": 0.39754146337509155
+  },
+  {
+    "file": "paper/paper123.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9567285180091858
+  },
+  {
+    "file": "paper/paper124.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9307428002357483
+  },
+  {
+    "file": "paper/paper125.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7036183476448059
+  },
+  {
+    "file": "paper/paper126.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7634229063987732
+  },
+  {
+    "file": "paper/paper127.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8895654082298279
+  },
+  {
+    "file": "paper/paper128.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9318772554397583
+  },
+  {
+    "file": "paper/paper129.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9208745360374451
+  },
+  {
+    "file": "paper/paper13.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7711766362190247
+  },
+  {
+    "file": "paper/paper130.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9823278188705444
+  },
+  {
+    "file": "paper/paper131.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9506086707115173
+  },
+  {
+    "file": "paper/paper132.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9599782824516296
+  },
+  {
+    "file": "paper/paper133.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8157913684844971
+  },
+  {
+    "file": "paper/paper134.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9555248618125916
+  },
+  {
+    "file": "paper/paper135.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8742794394493103
+  },
+  {
+    "file": "paper/paper136.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9492285251617432
+  },
+  {
+    "file": "paper/paper137.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7898606657981873
+  },
+  {
+    "file": "paper/paper138.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9325436949729919
+  },
+  {
+    "file": "paper/paper139.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9167574048042297
+  },
+  {
+    "file": "paper/paper14.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9942814111709595
+  },
+  {
+    "file": "paper/paper140.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9959938526153564
+  },
+  {
+    "file": "paper/paper141.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9831734299659729
+  },
+  {
+    "file": "paper/paper142.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9894752502441406
+  },
+  {
+    "file": "paper/paper143.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9981524348258972
+  },
+  {
+    "file": "paper/paper144.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9597100615501404
+  },
+  {
+    "file": "paper/paper145.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9810702800750732
+  },
+  {
+    "file": "paper/paper146.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9403952956199646
+  },
+  {
+    "file": "paper/paper147.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9808017611503601
+  },
+  {
+    "file": "paper/paper148.jpg",
+    "pred_class": "paper",
+    "confidence": 0.949312150478363
+  },
+  {
+    "file": "paper/paper149.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9963868856430054
+  },
+  {
+    "file": "paper/paper15.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9864875674247742
+  },
+  {
+    "file": "paper/paper150.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6255783438682556
+  },
+  {
+    "file": "paper/paper151.jpg",
+    "pred_class": "paper",
+    "confidence": 0.966996431350708
+  },
+  {
+    "file": "paper/paper152.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9187312722206116
+  },
+  {
+    "file": "paper/paper153.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9587488770484924
+  },
+  {
+    "file": "paper/paper154.jpg",
+    "pred_class": "paper",
+    "confidence": 0.984870195388794
+  },
+  {
+    "file": "paper/paper155.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9548105001449585
+  },
+  {
+    "file": "paper/paper156.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9887222051620483
+  },
+  {
+    "file": "paper/paper157.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9628181457519531
+  },
+  {
+    "file": "paper/paper158.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9668371677398682
+  },
+  {
+    "file": "paper/paper159.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9477346539497375
+  },
+  {
+    "file": "paper/paper16.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9903358221054077
+  },
+  {
+    "file": "paper/paper160.jpg",
+    "pred_class": "paper",
+    "confidence": 0.682470977306366
+  },
+  {
+    "file": "paper/paper161.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9974452257156372
+  },
+  {
+    "file": "paper/paper162.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7614890336990356
+  },
+  {
+    "file": "paper/paper163.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9342824220657349
+  },
+  {
+    "file": "paper/paper164.jpg",
+    "pred_class": "paper",
+    "confidence": 0.834373950958252
+  },
+  {
+    "file": "paper/paper165.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9344903826713562
+  },
+  {
+    "file": "paper/paper166.jpg",
+    "pred_class": "paper",
+    "confidence": 0.831694483757019
+  },
+  {
+    "file": "paper/paper167.jpg",
+    "pred_class": "paper",
+    "confidence": 0.48836901783943176
+  },
+  {
+    "file": "paper/paper168.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8820587396621704
+  },
+  {
+    "file": "paper/paper169.jpg",
+    "pred_class": "paper",
+    "confidence": 0.813517153263092
+  },
+  {
+    "file": "paper/paper17.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9168069958686829
+  },
+  {
+    "file": "paper/paper170.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9505441188812256
+  },
+  {
+    "file": "paper/paper171.jpg",
+    "pred_class": "paper",
+    "confidence": 0.478108674287796
+  },
+  {
+    "file": "paper/paper172.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7804956436157227
+  },
+  {
+    "file": "paper/paper173.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8050441145896912
+  },
+  {
+    "file": "paper/paper174.jpg",
+    "pred_class": "paper",
+    "confidence": 0.971754789352417
+  },
+  {
+    "file": "paper/paper175.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9383133053779602
+  },
+  {
+    "file": "paper/paper176.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7390191555023193
+  },
+  {
+    "file": "paper/paper177.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9756837487220764
+  },
+  {
+    "file": "paper/paper178.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9651103615760803
+  },
+  {
+    "file": "paper/paper179.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9535355567932129
+  },
+  {
+    "file": "paper/paper18.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9886091947555542
+  },
+  {
+    "file": "paper/paper180.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9677577018737793
+  },
+  {
+    "file": "paper/paper181.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9527475833892822
+  },
+  {
+    "file": "paper/paper182.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9941001534461975
+  },
+  {
+    "file": "paper/paper183.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9904098510742188
+  },
+  {
+    "file": "paper/paper184.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9891652464866638
+  },
+  {
+    "file": "paper/paper185.jpg",
+    "pred_class": "paper",
+    "confidence": 0.92201167345047
+  },
+  {
+    "file": "paper/paper186.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9691870808601379
+  },
+  {
+    "file": "paper/paper187.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8025211691856384
+  },
+  {
+    "file": "paper/paper188.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9524294137954712
+  },
+  {
+    "file": "paper/paper189.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9976685643196106
+  },
+  {
+    "file": "paper/paper19.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9814656972885132
+  },
+  {
+    "file": "paper/paper190.jpg",
+    "pred_class": "paper",
+    "confidence": 0.7028581500053406
+  },
+  {
+    "file": "paper/paper191.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9869064092636108
+  },
+  {
+    "file": "paper/paper192.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9948413968086243
+  },
+  {
+    "file": "paper/paper193.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6874786615371704
+  },
+  {
+    "file": "paper/paper194.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9352983832359314
+  },
+  {
+    "file": "paper/paper195.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9379681944847107
+  },
+  {
+    "file": "paper/paper196.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9976797699928284
+  },
+  {
+    "file": "paper/paper197.jpg",
+    "pred_class": "paper",
+    "confidence": 0.951059877872467
+  },
+  {
+    "file": "paper/paper198.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9724920988082886
+  },
+  {
+    "file": "paper/paper199.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6520978808403015
+  },
+  {
+    "file": "paper/paper2.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9937747716903687
+  },
+  {
+    "file": "paper/paper20.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9790213108062744
+  },
+  {
+    "file": "paper/paper200.jpg",
+    "pred_class": "paper",
+    "confidence": 0.3947499990463257
+  },
+  {
+    "file": "paper/paper201.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8998659253120422
+  },
+  {
+    "file": "paper/paper202.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6133314371109009
+  },
+  {
+    "file": "paper/paper203.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9676081538200378
+  },
+  {
+    "file": "paper/paper204.jpg",
+    "pred_class": "paper",
+    "confidence": 0.9117183089256287
+  },
+  {
+    "file": "plastic/plastic1.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5832222700119019
+  },
+  {
+    "file": "plastic/plastic10.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8424440622329712
+  },
+  {
+    "file": "plastic/plastic100.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9217649102210999
+  },
+  {
+    "file": "plastic/plastic101.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9273929595947266
+  },
+  {
+    "file": "plastic/plastic102.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9205490350723267
+  },
+  {
+    "file": "plastic/plastic103.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9990702271461487
+  },
+  {
+    "file": "plastic/plastic104.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9011074900627136
+  },
+  {
+    "file": "plastic/plastic105.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9561160206794739
+  },
+  {
+    "file": "plastic/plastic106.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9834892749786377
+  },
+  {
+    "file": "plastic/plastic107.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8550581932067871
+  },
+  {
+    "file": "plastic/plastic108.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9946520328521729
+  },
+  {
+    "file": "plastic/plastic109.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8580160737037659
+  },
+  {
+    "file": "plastic/plastic11.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6328718662261963
+  },
+  {
+    "file": "plastic/plastic110.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9239307045936584
+  },
+  {
+    "file": "plastic/plastic111.jpg",
+    "pred_class": "glass",
+    "confidence": 0.5551112294197083
+  },
+  {
+    "file": "plastic/plastic112.jpg",
+    "pred_class": "metal",
+    "confidence": 0.8173972368240356
+  },
+  {
+    "file": "plastic/plastic113.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4992702007293701
+  },
+  {
+    "file": "plastic/plastic114.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.907900869846344
+  },
+  {
+    "file": "plastic/plastic115.jpg",
+    "pred_class": "glass",
+    "confidence": 0.3872421383857727
+  },
+  {
+    "file": "plastic/plastic116.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9712098836898804
+  },
+  {
+    "file": "plastic/plastic117.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5720224380493164
+  },
+  {
+    "file": "plastic/plastic118.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.556598961353302
+  },
+  {
+    "file": "plastic/plastic119.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9047126770019531
+  },
+  {
+    "file": "plastic/plastic12.jpg",
+    "pred_class": "paper",
+    "confidence": 0.8444902300834656
+  },
+  {
+    "file": "plastic/plastic120.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.43681421875953674
+  },
+  {
+    "file": "plastic/plastic121.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7360577583312988
+  },
+  {
+    "file": "plastic/plastic122.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9706907868385315
+  },
+  {
+    "file": "plastic/plastic123.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.710209846496582
+  },
+  {
+    "file": "plastic/plastic124.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5513352751731873
+  },
+  {
+    "file": "plastic/plastic125.jpg",
+    "pred_class": "glass",
+    "confidence": 0.27358394861221313
+  },
+  {
+    "file": "plastic/plastic126.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9416441917419434
+  },
+  {
+    "file": "plastic/plastic127.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6584842801094055
+  },
+  {
+    "file": "plastic/plastic128.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6543129682540894
+  },
+  {
+    "file": "plastic/plastic129.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5600095987319946
+  },
+  {
+    "file": "plastic/plastic13.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.730421781539917
+  },
+  {
+    "file": "plastic/plastic130.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.868103563785553
+  },
+  {
+    "file": "plastic/plastic131.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8792838454246521
+  },
+  {
+    "file": "plastic/plastic132.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9212374091148376
+  },
+  {
+    "file": "plastic/plastic133.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5045318007469177
+  },
+  {
+    "file": "plastic/plastic134.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9859456419944763
+  },
+  {
+    "file": "plastic/plastic135.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.979089081287384
+  },
+  {
+    "file": "plastic/plastic136.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.49009549617767334
+  },
+  {
+    "file": "plastic/plastic137.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5601698756217957
+  },
+  {
+    "file": "plastic/plastic138.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9198794364929199
+  },
+  {
+    "file": "plastic/plastic139.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9065456986427307
+  },
+  {
+    "file": "plastic/plastic14.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.984458327293396
+  },
+  {
+    "file": "plastic/plastic140.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9610416889190674
+  },
+  {
+    "file": "plastic/plastic141.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6972821354866028
+  },
+  {
+    "file": "plastic/plastic142.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5866777896881104
+  },
+  {
+    "file": "plastic/plastic143.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9911630153656006
+  },
+  {
+    "file": "plastic/plastic144.jpg",
+    "pred_class": "glass",
+    "confidence": 0.43193748593330383
+  },
+  {
+    "file": "plastic/plastic145.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7577181458473206
+  },
+  {
+    "file": "plastic/plastic146.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5109374523162842
+  },
+  {
+    "file": "plastic/plastic147.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.46107375621795654
+  },
+  {
+    "file": "plastic/plastic148.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9550708532333374
+  },
+  {
+    "file": "plastic/plastic149.jpg",
+    "pred_class": "paper",
+    "confidence": 0.33656883239746094
+  },
+  {
+    "file": "plastic/plastic15.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9861131310462952
+  },
+  {
+    "file": "plastic/plastic150.jpg",
+    "pred_class": "paper",
+    "confidence": 0.6694512963294983
+  },
+  {
+    "file": "plastic/plastic151.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9414432644844055
+  },
+  {
+    "file": "plastic/plastic152.jpg",
+    "pred_class": "glass",
+    "confidence": 0.7506335377693176
+  },
+  {
+    "file": "plastic/plastic153.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.45730525255203247
+  },
+  {
+    "file": "plastic/plastic154.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.27950915694236755
+  },
+  {
+    "file": "plastic/plastic155.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4063063859939575
+  },
+  {
+    "file": "plastic/plastic156.jpg",
+    "pred_class": "glass",
+    "confidence": 0.3564763367176056
+  },
+  {
+    "file": "plastic/plastic157.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9870306849479675
+  },
+  {
+    "file": "plastic/plastic158.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8910523056983948
+  },
+  {
+    "file": "plastic/plastic159.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.953082799911499
+  },
+  {
+    "file": "plastic/plastic16.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8682064414024353
+  },
+  {
+    "file": "plastic/plastic160.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7651482820510864
+  },
+  {
+    "file": "plastic/plastic161.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9619958996772766
+  },
+  {
+    "file": "plastic/plastic162.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9172574877738953
+  },
+  {
+    "file": "plastic/plastic163.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7903355956077576
+  },
+  {
+    "file": "plastic/plastic164.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5151461958885193
+  },
+  {
+    "file": "plastic/plastic165.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9697971940040588
+  },
+  {
+    "file": "plastic/plastic166.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8627116680145264
+  },
+  {
+    "file": "plastic/plastic167.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8515971899032593
+  },
+  {
+    "file": "plastic/plastic168.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9287200570106506
+  },
+  {
+    "file": "plastic/plastic169.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9074339270591736
+  },
+  {
+    "file": "plastic/plastic17.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.974107563495636
+  },
+  {
+    "file": "plastic/plastic170.jpg",
+    "pred_class": "metal",
+    "confidence": 0.6908784508705139
+  },
+  {
+    "file": "plastic/plastic171.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9612088203430176
+  },
+  {
+    "file": "plastic/plastic172.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8942345976829529
+  },
+  {
+    "file": "plastic/plastic173.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6238878965377808
+  },
+  {
+    "file": "plastic/plastic174.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6802800297737122
+  },
+  {
+    "file": "plastic/plastic175.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8188761472702026
+  },
+  {
+    "file": "plastic/plastic176.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.7323782444000244
+  },
+  {
+    "file": "plastic/plastic177.jpg",
+    "pred_class": "glass",
+    "confidence": 0.6869834661483765
+  },
+  {
+    "file": "plastic/plastic178.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.9584699869155884
+  },
+  {
+    "file": "plastic/plastic179.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.5751377940177917
+  },
+  {
+    "file": "plastic/plastic18.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.998635470867157
+  },
+  {
+    "file": "plastic/plastic180.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8235204815864563
+  },
+  {
+    "file": "plastic/plastic181.jpg",
+    "pred_class": "trash",
+    "confidence": 0.37027132511138916
+  },
+  {
+    "file": "plastic/plastic182.jpg",
+    "pred_class": "trash",
+    "confidence": 0.5399206280708313
+  },
+  {
+    "file": "plastic/plastic183.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.45367082953453064
+  },
+  {
+    "file": "plastic/plastic184.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6578328609466553
+  },
+  {
+    "file": "plastic/plastic185.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.8890925645828247
+  },
+  {
+    "file": "trash/trash1.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.91828852891922
+  },
+  {
+    "file": "trash/trash10.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5726457834243774
+  },
+  {
+    "file": "trash/trash100.jpg",
+    "pred_class": "trash",
+    "confidence": 0.9839787483215332
+  },
+  {
+    "file": "trash/trash101.jpg",
+    "pred_class": "trash",
+    "confidence": 0.9803211688995361
+  },
+  {
+    "file": "trash/trash102.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.4580707848072052
+  },
+  {
+    "file": "trash/trash103.jpg",
+    "pred_class": "trash",
+    "confidence": 0.9494467377662659
+  },
+  {
+    "file": "trash/trash104.jpg",
+    "pred_class": "trash",
+    "confidence": 0.8482120633125305
+  },
+  {
+    "file": "trash/trash105.jpg",
+    "pred_class": "trash",
+    "confidence": 0.5045236349105835
+  },
+  {
+    "file": "trash/trash106.jpg",
+    "pred_class": "trash",
+    "confidence": 0.9865830540657043
+  },
+  {
+    "file": "trash/trash107.jpg",
+    "pred_class": "trash",
+    "confidence": 0.46113279461860657
+  },
+  {
+    "file": "trash/trash108.jpg",
+    "pred_class": "metal",
+    "confidence": 0.815432071685791
+  },
+  {
+    "file": "trash/trash109.jpg",
+    "pred_class": "trash",
+    "confidence": 0.777744710445404
+  },
+  {
+    "file": "trash/trash11.jpg",
+    "pred_class": "trash",
+    "confidence": 0.8343149423599243
+  },
+  {
+    "file": "trash/trash110.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.37311655282974243
+  },
+  {
+    "file": "trash/trash111.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5737483501434326
+  },
+  {
+    "file": "trash/trash112.jpg",
+    "pred_class": "trash",
+    "confidence": 0.592093825340271
+  },
+  {
+    "file": "trash/trash113.jpg",
+    "pred_class": "trash",
+    "confidence": 0.4396776556968689
+  },
+  {
+    "file": "trash/trash114.jpg",
+    "pred_class": "trash",
+    "confidence": 0.6563952565193176
+  },
+  {
+    "file": "trash/trash115.jpg",
+    "pred_class": "trash",
+    "confidence": 0.6498816013336182
+  },
+  {
+    "file": "trash/trash116.jpg",
+    "pred_class": "metal",
+    "confidence": 0.7321352958679199
+  },
+  {
+    "file": "trash/trash117.jpg",
+    "pred_class": "trash",
+    "confidence": 0.4360900819301605
+  },
+  {
+    "file": "trash/trash118.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.46957942843437195
+  },
+  {
+    "file": "trash/trash119.jpg",
+    "pred_class": "trash",
+    "confidence": 0.6073324680328369
+  },
+  {
+    "file": "trash/trash12.jpg",
+    "pred_class": "plastic",
+    "confidence": 0.6005204916000366
+  },
+  {
+    "file": "trash/trash120.jpg",
+    "pred_class": "metal",
+    "confidence": 0.843687117099762
+  },
+  {
+    "file": "trash/trash121.jpg",
+    "pred_class": "metal",
+    "confidence": 0.49797430634498596
+  },
+  {
+    "file": "trash/trash122.jpg",
+    "pred_class": "metal",
+    "confidence": 0.5832937359809875
+  }
+]

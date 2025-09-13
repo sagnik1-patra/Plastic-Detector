@@ -1,0 +1,43 @@
+run:
+  timestamp: '2025-09-13T11:44:48.417432'
+  seed: 42
+  device: /CPU:0
+data:
+  data_root: C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized
+  class_dirs:
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\plastic
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\trash
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\paper
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\metal
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\glass
+  - C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\cardboard
+  classes:
+  - cardboard
+  - glass
+  - metal
+  - paper
+  - plastic
+  - trash
+  val_split: 0.2
+  image_size:
+  - 224
+  - 224
+  batch_size: 32
+  augment: true
+model:
+  architecture: EfficientNetB0
+  transfer_learning: true
+  frozen_base: true
+  optimizer: Adam
+  learning_rate: 0.001
+  epochs: 12
+  num_classes: 6
+artifacts:
+  model_h5: C:\Users\sagni\Downloads\Plastic Detector\model.h5
+  class_indices_pkl: C:\Users\sagni\Downloads\Plastic Detector\class_indices.pkl
+  metrics_json: C:\Users\sagni\Downloads\Plastic Detector\metrics.json
+  val_predictions_json: C:\Users\sagni\Downloads\Plastic Detector\val_predictions.json
+  accuracy_loss_png: C:\Users\sagni\Downloads\Plastic Detector\accuracy_loss.png
+  confusion_matrix_png: C:\Users\sagni\Downloads\Plastic Detector\confusion_matrix.png
+  classification_report_csv: C:\Users\sagni\Downloads\Plastic Detector\classification_report.csv
+  confusion_matrix_csv: C:\Users\sagni\Downloads\Plastic Detector\confusion_matrix.csv

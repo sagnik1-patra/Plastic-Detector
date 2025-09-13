@@ -1,0 +1,2 @@
+file,pred_class,confidence,top1_class,top1_p,top2_class,top2_p,top3_class,top3_p
+C:\Users\sagni\Downloads\Plastic Detector\archive\dataset-resized\plastic\plastic1.jpg,plastic,0.673581,plastic,0.673581,glass,0.286736,paper,0.025413
